@@ -1,4 +1,4 @@
-### Hi there. I'm Mateo Florido 👋
+### Hello there. I'm Mateo Florido 👋
 
 #### I'm a Systems Engineer Student at Pontificia Universidad Javeriama.
 
