@@ -6,7 +6,7 @@
 
 - 🏫 I'm currently studying at **Pontificia Universidad Javeriana**
 - 🧰 I use daily: `.rs`, `.c`, `.cxx` and `.py`
-- 🌱 Learning all about **Rust, Linux and Linux Kernel**
+- 🌱 Learning all about **Rust and Go**
 - 💬 Ask me about: **Linux and Linux Kernel**
 - 📫 Reach me: [twitter.com/mateoflosan](https://twitter.com/mateoflosan)
 - ⚡️ Fun fact: I'm a huge fan of F1.
