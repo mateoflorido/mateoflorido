@@ -1,6 +1,6 @@
 ### Hello there. I'm Mateo Florido 👋
 
-#### I'm a Software Engineer Student at Canonical.
+#### I'm a Software Engineer at Canonical.
 
 ##### Today
 
