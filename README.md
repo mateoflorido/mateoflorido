@@ -1,12 +1,11 @@
 ### Hello there. I'm Mateo Florido 👋
 
-#### I'm a Systems Engineer Student at Pontificia Universidad Javeriama.
+#### I'm a Software Engineer Student at Canonical.
 
 ##### Today
 
-- 🏫 I'm currently studying at **Pontificia Universidad Javeriana**
-- 🧰 I use daily: `.rs`, `.c`, `.cxx` and `.py`
-- 🌱 Learning all about **Rust and Go**
-- 💬 Ask me about: **Linux and Linux Kernel**
+- 🧰 I use daily: `.py` and `.rs`
+- 🌱 Learning all about **Rust**
+- 💬 Ask me about: **Linux and Kubernetes**
 - 📫 Reach me: [twitter.com/mateoflosan](https://twitter.com/mateoflosan)
 - ⚡️ Fun fact: I'm a huge fan of F1.
