@@ -5,7 +5,7 @@
 ##### Today
 
 - 🧰 I use daily: `.py` and `.rs`
-- 🌱 Learning all about **Rust**
+- 🌱 Learning all about **Rust** and **eBPF**
 - 💬 Ask me about: **Linux and Kubernetes**
 - 📫 Reach me: [twitter.com/mateoflosan](https://twitter.com/mateoflosan)
 - ⚡️ Fun fact: I'm a huge fan of F1.
